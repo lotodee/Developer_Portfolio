@@ -271,18 +271,18 @@ export const companies = [
     img: "/aws.svg",
     nameImg: "/react-native.svg",
   },
-  // {
-  //   id: 23,
-  //   name: "React Native",
-  //   img: "/react-native.svg",
-  //   nameImg: "/react-native.svg",
-  // },
-  // {
-  //   id: 24,
-  //   name: "React Native",
-  //   img: "/react-native.svg",
-  //   nameImg: "/react-native.svg",
-  // },
+  {
+    id: 24,
+    name: "React Native Expo",
+    img: "/expo.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 24,
+    name: "GraphQL",
+    img: "/graphql.svg",
+    nameImg: "/react-native.svg",
+  },
 ];
 
 export const workExperience = [
