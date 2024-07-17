@@ -108,35 +108,36 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Olamidotun was a fantastic experience. He always delivered on time, brought innovative ideas to the table, and showed remarkable resilience in solving complex problems. I highly recommend Olamidotun for any project.",
+    name: "Ayoola Oladeinde",
+    title: "Project Manager at Gradell Tech",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Olamidotun's dedication and positive attitude made our collaboration smooth and productive. He consistently attended stand-up meetings on time, delivered work promptly, and contributed valuable insights to our projects. His work ethic is truly commendable.",
+    name: "Oyin Olaide",
+    title: "Senior Developer Decagon",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Throughout our project, Olamidotun's professionalism and skill were evident. He handled challenges with ease and provided timely solutions. His ability to deliver high-quality work under pressure is impressive.",
+    name: "John Matthews",
+    title: "CTO of AirtimeSlot",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Olamidotun is a talented developer who brings creativity and efficiency to every task. His promptness and dedication to meeting deadlines have been crucial to our project's success. I would work with him again without hesitation.",
+    name: "Linda Williams",
+    title: "Lead Engineer at GO-Harverst",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Olamidotun's technical expertise and problem-solving skills are top-notch. He consistently delivered outstanding results and exceeded our expectations. His contributions were invaluable to our team's success.",
+    name: "Mark Robinson",
+    title: "Team Lead at KoyoApp",
   },
 ];
+
 
 export const companies = [
   // Frontend
