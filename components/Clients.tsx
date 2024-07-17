@@ -24,29 +24,33 @@ const Clients = () => {
             speed="slow"
           />
         </div>
+        <div className="stacks flex flex-col gap-16 mt-20">
+          <h1 className="heading">
+            Technologies
+            <span className="text-purple"> and Tools</span>
+          </h1>
 
-        <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
-          {companies.map((company) => (
-            <React.Fragment key={company.id}>
-              <div className="flex md:max-w-60 max-w-32 gap-2 items-center justify-center">
-              
+          <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
+            {companies.map((company) => (
+              <React.Fragment key={company.id}>
+                <div className="flex md:max-w-60 max-w-32 gap-2 items-center justify-center">
                   {/* <img
                     src={company.img}
                     alt={company.name}
                     className="md:w-10 w-5"
                 /> */}
-                <Image
-                  height={company.id ===15 || company.id === 21 || company.id === 22  ? 40 : 20}
-                  width={company.id ===15 || company.id === 21 || company.id === 22 ? 40 : 20}
-                  alt={company.name}
-                  src={company.img}
-                />
-              
-                <p>{ company.name}</p>
-              
-              </div>
-            </React.Fragment>
-          ))}
+                  <Image
+                    height={company.id === 12 || company.id === 13 ? 40 : 20}
+                    width={company.id === 12 || company.id === 13 ? 40 : 20}
+                    alt={company.name}
+                    src={company.img}
+                  />
+
+                  <p>{company.name}</p>
+                </div>
+              </React.Fragment>
+            ))}
+          </div>
         </div>
       </div>
     </section>
