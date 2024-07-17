@@ -169,36 +169,180 @@ export const companies = [
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
   },
+  {
+    id: 6,
+    name: "tailwind",
+    img: "/tailwind.svg",
+    nameImg: "/tailwind.svg",
+  },
+  {
+    id: 7,
+    name: "redux",
+    img: "/redux.svg",
+    nameImg: "/redux.svg",
+  },
+  {
+    id: 8,
+    name: "React Native",
+    img: "/react-native.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 9,
+    name: "Postgresql",
+    img: "/pgsql.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 10,
+    name: "Mongo DB",
+    img: "/mongodb.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 11,
+    name: "Typescript",
+    img: "/typescript.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 12,
+    name: "Firebase",
+    img: "/firebase.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 13,
+    name: "Material UI",
+    img: "/mui.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 14,
+    name: "Next JS",
+    img: "/nextjs.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 15,
+    name: "Node JS",
+    img: "/nodejs.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 16,
+    name: "Github",
+    img: "/github.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 17,
+    name: "HTML-5",
+    img: "/html.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 18,
+    name: "CSS 3",
+    img: "/css.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 19,
+    name: "Vanilla Javascript",
+    img: "/javascript.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 20,
+    name: "Vue JS",
+    img: "/vue.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 21,
+    name: "Express JS",
+    img: "/express.svg",
+    nameImg: "/react-native.svg",
+  },
+  {
+    id: 22,
+    name: "AWS",
+    img: "/aws.svg",
+    nameImg: "/react-native.svg",
+  },
+  // {
+  //   id: 23,
+  //   name: "React Native",
+  //   img: "/react-native.svg",
+  //   nameImg: "/react-native.svg",
+  // },
+  // {
+  //   id: 24,
+  //   name: "React Native",
+  //   img: "/react-native.svg",
+  //   nameImg: "/react-native.svg",
+  // },
 ];
 
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Frontend Engineer Intern - ALUSOFT",
+    desc: "Assisted in the development of a web-based platform using HTML, CSS, Vanilla JS enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
+    title: "Frontend Developer - FADA Fx",
+    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    className: "md:col-span-2",
+    thumbnail: "/exp4.svg",
+  },
+  {
+    id: 3,
+    title: "Full Stack Developer  - DECAGON",
+    desc: "Assisted in the development of a web-based applications working React JS, Node JS ,Mongo DB , Postgresql, Vanilla JS  honing my skilss as a javascript developer.",
+    className: "md:col-span-2",
+    thumbnail: "/exp1.svg",
+  },
+
+  {
+    id: 4,
+    title: "Mobile App Dev - Gradell Tech",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
+
   {
-    id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    id: 5,
+    title: " Lead Frontend Developer  - GLEEWORLD",
+    desc: "Developed of a web-based applications",
+    className: "md:col-span-2",
+    thumbnail: "/exp1.svg",
+  },
+  {
+    id: 6,
+    title: "Mobile App Dev Project - AIRTIMESLOT",
+    desc: "Worked in a team of a mobile developers  for a client, from initial concept to deployment on app stores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    id: 7,
+    title: "MObile App Dev Project - GOHARVESRT",
+    desc: "Built mobile app for a client, from initial concept.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp3.svg",
+  },
+  {
+    id: 8,
+    title: "Freelance App Dev Project - KOYOAPP",
+    desc: "UI design of a mobile app for a client.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp3.svg",
   },
 ];
 
